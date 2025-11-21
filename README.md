@@ -84,7 +84,7 @@ Diseño de cursos y proyectos de robótica, Python y electrónica para estudiant
 
 ## 📊 GitHub Stats
 
-<!-- Cambia "EmmanuelJaquez" por tu usuario real -->
+<!-- Cambia "EmmanuelJaquez" por tu usuario real
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelJaquez&show_icons=true&theme=dark" alt="GitHub stats" />
@@ -93,7 +93,7 @@ Diseño de cursos y proyectos de robótica, Python y electrónica para estudiant
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelJaquez&layout=compact&theme=dark" alt="Top Langs" />
 </p>
-
+ -->
 ---
 
 ## 🤝 Cómo podemos colaborar / How we can collaborate
